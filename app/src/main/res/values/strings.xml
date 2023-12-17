@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tasty Food</string>
+    <string name="quotes"><font color='black'>Make your own food,\nstay at </font><font color='#f18d46'>Home!</font></string>
+    <string name="register_button">Don\'t have an account? <b>Register Here</b></string>
+</resources>
